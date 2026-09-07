@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "ISO 16757 Practitioner Survey: Supplementary Data"
+type: dataset
+authors:
+  - family-names: "Junge"
+    given-names: "Malte"
+    affiliation: "Design Computation, RWTH Aachen University"
+  - family-names: "Kremer"
+    given-names: "Noemi"
+    affiliation: "Design Computation, RWTH Aachen University"
+  - family-names: "Beetz"
+    given-names: "Jakob"
+    affiliation: "Design Computation, RWTH Aachen University"
+repository-code: "https://github.com/Design-Computation-RWTH/2026-cib-w78-heat-pump-properties"
+license: "CC-BY-4.0"
+date-released: 2026-09-07
+keywords:
+  - ISO 16757
+  - heat pumps
+  - BIM
+  - building services engineering
+  - product data
+  - survey
