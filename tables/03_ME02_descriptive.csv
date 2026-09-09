@@ -1,0 +1,47 @@
+"var","item_name_de","item_name_en","analysis_population_n","valid_n","unplaced_n","coded_missing_n","structural_na_n","median","mean","sd","q1","q3","iqr","modal_lp","modal_lp_n"
+"ME02_01","Funktionsumfang","Range of functions",36,20,2,0,14,184,188,53.0134044618112,155.25,211.25,56,2,16
+"ME02_02","Typ","Type",36,21,2,0,13,168,158.666666666667,67.9384525385538,136,190,54,2,17
+"ME02_03","Wärmequelle","Heat source",36,19,2,0,15,170,161.842105263158,64.2825906602115,148,203,55,2,14
+"ME02_04","Betriebsweise","Operating mode",36,18,3,0,15,195,214.055555555556,118.916912279725,180,240.25,60.25,2,11
+"ME02_05","Zusatzwärme/Energieträger","Backup heat / energy source",36,19,2,0,15,200,219.684210526316,57.2587233835053,180.5,247.5,67,2,14
+"ME02_06","Bauart","System design",36,18,4,0,14,205,231,68.2969295666745,183.25,239,55.75,2,14
+"ME02_07","Aufstellungsort","Installation location",36,20,1,0,15,188,184.1,22.872415010686,170.75,194.75,24,2,20
+"ME02_08","Leistungsregelung","Output control",36,18,4,0,14,313,339.611111111111,131.259571702024,273.5,356.25,82.75,3,10
+"ME02_09","Antriebsenergie/Funktionsprinzip","Drive energy / functional principle",36,18,3,0,15,236,249.611111111111,113.190177753502,175.75,326.5,150.75,3,8
+"ME02_10","Nenn-Heizleistung","Nominal heating output",36,18,4,0,14,221,246.555555555556,89.6845597716681,191.5,275.25,83.75,2,11
+"ME02_11","Nenn-Kühlleistung","Nominal cooling output",36,17,5,0,14,307,308.470588235294,106.180929106325,215,340,125,3,10
+"ME02_12","Nenn-Leistungszahl (COP)","Nominal coefficient of performance (COP)",36,17,4,0,15,295,334.470588235294,135.147658899007,244,344,100,3,8
+"ME02_13","Nenn-Leistungszahl Kühlung (EER)","Nominal energy efficiency ratio (EER)",36,18,4,0,14,296.5,310.055555555556,126.060430056952,220.5,330.25,109.75,2,8
+"ME02_14","Energieeffizienzlabel (ErP-Daten)","Energy efficiency label (ErP data)",36,17,4,0,15,392,409.235294117647,176.511872621845,238,558,320,2,5
+"ME02_15","Elektrische Leistungsaufnahme","Electric power consumption",36,19,3,0,14,320,317.947368421053,129.417701727653,228,347.5,119.5,3,9
+"ME02_16","Elektrische Anschlussspanung und Phase","Electrical connection (voltage and phase)",36,18,3,0,15,290,309.388888888889,130.854719121398,217,335.5,118.5,3,8
+"ME02_17","Anlaufstrom","Starting current",36,18,3,0,15,337,355.777777777778,136.076343432024,296.5,364.75,68.25,3,11
+"ME02_18","Leistung der elektr. Zusatzheizung (Heizstab)","Output of electric backup heating",36,18,3,0,15,303,310.944444444444,134.459909713868,205,352,147,2,8
+"ME02_19","Maximale Vorlauftemperatur im Heizbetrieb","Maximum supply temperature - heating",36,17,4,0,15,242,285.058823529412,110.683371937836,209,336,127,2,10
+"ME02_20","Minimale Vorlauftemperatur im Heizbetrieb","Minimum supply temperature - heating",36,18,3,0,15,272,315.444444444444,171.133667132285,214.5,330.5,116,3,10
+"ME02_21","Maximale Vorlauftemperatur im Kühlbetrieb","Maximum supply temperature - cooling",36,18,4,0,14,300,304.555555555556,113.330449790307,215.75,345.25,129.5,3,10
+"ME02_22","Minimale Vorlauftemperatur im Kühlbetrieb","Minimum supply temperature - cooling",36,18,4,0,14,316.5,340.777777777778,128.327960162535,270,350.25,80.25,3,11
+"ME02_23","Maximale Wärmequellentemperatur","Maximum heat source temperature",36,19,3,0,14,301,318.315789473684,183.236657125751,211.5,334,122.5,2,9
+"ME02_24","Minimale Wärmequellentemperatur","Minimum heat source temperature",36,19,3,0,14,298,329.78947368421,182.766572116022,226.5,329.5,103,3,9
+"ME02_25","Spreizung der Heizwassertemperatur","Temperature differential",36,16,5,0,15,291.5,282.6875,61.7562075152504,235.75,325.25,89.5,3,10
+"ME02_26","Eingesetztes Kältemittel","Refrigerant used",36,18,3,0,15,212.5,233.111111111111,67.5372567236161,184.25,281.75,97.5,2,11
+"ME02_27","Füllmenge des Kältemittels","Refrigerant capacity",36,18,3,0,15,322.5,405.055555555556,146.627768906095,291,525.25,234.25,3,8
+"ME02_28","Sicherheitsklasse des Kältemittels","Refrigerant safety class",36,18,3,0,15,288.5,289.777777777778,113.637998799881,199.75,322.75,123,3,8
+"ME02_29","Treibhauspotential (GWP) des Kältemittels","Refrigerant global warming potential (GWP)",36,18,3,0,15,306,307.166666666667,133.695989644637,214.5,322.25,107.75,3,10
+"ME02_30","Bauart des Kältekreises","Design of refrigerant circuit",36,16,6,0,14,327,378.6875,192.973130685768,217.5,510.25,292.75,3,6
+"ME02_31","Produktmaße (Länge x Breite x Höhe)","Product dimensions (length x width x height)",36,20,2,0,14,281.5,269.3,94.7590295655803,191.75,308.75,117,3,10
+"ME02_32","Masse (Gesamtgewicht)","Mass (total weight)",36,20,1,0,15,321.5,312.9,54.9640073617559,289,349.25,60.25,3,16
+"ME02_33","Schallpegel im Innenraum","Sound power level for indoors",36,20,1,0,15,325.5,335.25,107.734505541217,293.75,356.5,62.75,3,14
+"ME02_34","Schallpegel im Außenraum","Sound power level for outdoors",36,21,1,0,14,315,282.761904761905,100.621520939561,220,332,112,3,13
+"ME02_35","IP-Schutzart für das Innenteil","IP-protection for indoor unit",36,16,5,0,15,563,517.6875,203.622107100383,347,597.75,250.75,5,8
+"ME02_36","IP-Schutzart für das Außenteil","IP-protection for outdoor unit",36,18,4,0,14,552.5,508.055555555556,169.388683635569,371,583.5,212.5,5,11
+"ME02_37","Verdichteranzahl","Number of compressors",36,17,5,0,14,363,443.470588235294,169.37647329509,327,550,223,3,9
+"ME02_38","Informationen zu Investitionskosten","Information about investment costs",36,21,1,0,14,193,219.380952380952,78.6870231934569,181,270,89,2,14
+"ME02_39","Informationen zu Betriebskosten","Information about operating costs",36,19,3,0,14,214,267.157894736842,130.894471132662,173,325.5,152.5,2,9
+"ME02_40","Automatisierungs- und Steuerungssysteme","Automation- and control systems",36,17,4,0,15,525,465.823529411765,144.648381988063,337,573,236,5,9
+"ME02_41","Integrierter Warmwasserspeicher","Integrated hot water tank",36,17,4,0,15,224,244.529411764706,68.124075816721,187,305,118,2,10
+"ME02_42","Heizleistung – dynamisch","Heating output - dynamic",36,17,4,0,15,364,396.117647058824,160.395169173257,227,556,329,5,7
+"ME02_43","Kühlleistung – dynamisch","Cooling output - dynamic",36,18,4,0,14,345.5,424.666666666667,199.74159777661,300.5,572,271.5,5,7
+"ME02_44","Leistungszahl (COP) – dynamisch","Coefficient of performance (COP) - dynamic",36,19,3,0,14,323,379.947368421053,159.772919998704,256.5,560,303.5,3,7
+"ME02_45","Leistungszahl Kühlung (EER) – dynamisch","Energy efficiency ratio (EER) - dynamic",36,19,3,0,14,334,360.157894736842,136.848360180934,260.5,442.5,182,3,10
+"ME02_46","Elektrische Leistungsaufnahme – dynamisch","Electric power consumption - dynamic",36,18,4,0,14,328.5,388.555555555556,151.294501366675,271.5,535.25,263.75,3,9

@@ -9,7 +9,9 @@ This repository is an **appendix** to the associated research paper (see
 
 - the **survey response data** and its **codebook**,
 - **additional evaluation figures** that did not fit into the paper due to
-  space constraints.
+  space constraints,
+- **descriptive and exploratory analysis tables** corresponding to the English
+  figures.
 
 ### Companion repository
 
@@ -81,6 +83,12 @@ analysis <- d[!is.na(d$BE02) & d$BE02 > 0, ]   # n = 36
 | `data/survey_responses.csv` | Survey responses (UTF-8, `.` as decimal separator) |
 | `data/codebook.xlsx` | SoSci Survey codebook: variable labels, response codes and response labels |
 | `figures/` | Evaluation figures, including ones not used in the paper |
+| `tables/` | English descriptive, distribution, group-comparison, and analysis tables |
+
+The `tables/` directory contains the generated English-profile CSV outputs,
+including `00_output_manifest.csv`, item-level descriptive statistics,
+distribution tables, group-comparison tables, the ME02/ME04 joint-analysis
+tables, and the SO free-text recoding audit.
 
 `survey_responses.csv` is a verbatim subset of the original SoSci Survey export:
 values are passed through unchanged, and only whole columns and whole records

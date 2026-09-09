@@ -1,0 +1,19 @@
+"item","item_name_de","item_name_en","response_label_de","response_label_en","raw_code","ordinal_score","analysis_population_n","n_valid","coded_missing_n","structural_na_n","n","share"
+"BE02","Berufliche Tätigkeit","Occupational role","Architektur, angestellt","Architecture – employee",,,36,36,0,0,6,0.166666666666667
+"BE02","Berufliche Tätigkeit","Occupational role","Architektur, Geschäftsführung / Büroleitung","Architecture – director",,,36,36,0,0,1,0.0277777777777778
+"BE02","Berufliche Tätigkeit","Occupational role","Architektur, Projektleitung","Architecture – project lead",,,36,36,0,0,3,0.0833333333333333
+"BE02","Berufliche Tätigkeit","Occupational role","Forschung / Lehre","Research / academia",,,36,36,0,0,1,0.0277777777777778
+"BE02","Berufliche Tätigkeit","Occupational role","Sonstiges (bitte im Textfeld angeben)","Other",,,36,36,0,0,1,0.0277777777777778
+"BE02","Berufliche Tätigkeit","Occupational role","TGA-Planung, angestellt","MEP planning – employee",,,36,36,0,0,6,0.166666666666667
+"BE02","Berufliche Tätigkeit","Occupational role","TGA-Planung, Führungsposition","MEP planning – team lead",,,36,36,0,0,8,0.222222222222222
+"BE02","Berufliche Tätigkeit","Occupational role","TGA-Planung, Geschäftsführung / Büroleitung","MEP planning – director",,,36,36,0,0,9,0.25
+"BE02","Berufliche Tätigkeit","Occupational role","TGA-Planung, solo-selbstständig / Freelancer","MEP planning – freelance",,,36,36,0,0,1,0.0277777777777778
+"BE07","Anzahl Wärmepumpenprojekte (letzte 5 Jahre)","Number of heat pump projects (past 5 years)","0","0",,,36,33,2,1,1,0.0303030303030303
+"BE07","Anzahl Wärmepumpenprojekte (letzte 5 Jahre)","Number of heat pump projects (past 5 years)","1 - 2","1 - 2",,,36,33,2,1,9,0.272727272727273
+"BE07","Anzahl Wärmepumpenprojekte (letzte 5 Jahre)","Number of heat pump projects (past 5 years)","3 - 4","3 - 4",,,36,33,2,1,9,0.272727272727273
+"BE07","Anzahl Wärmepumpenprojekte (letzte 5 Jahre)","Number of heat pump projects (past 5 years)","5+","5+",,,36,33,2,1,14,0.424242424242424
+"BE08","Erfahrung mit Wärmepumpenprodukten","Experience with heat pump products","Keine Erfahrung","No experience",1,1,36,34,1,1,4,0.117647058823529
+"BE08","Erfahrung mit Wärmepumpenprodukten","Experience with heat pump products","Geringe Erfahrung","Little experience",2,2,36,34,1,1,4,0.117647058823529
+"BE08","Erfahrung mit Wärmepumpenprodukten","Experience with heat pump products","Etwas Erfahrung","Some experience",5,3,36,34,1,1,6,0.176470588235294
+"BE08","Erfahrung mit Wärmepumpenprodukten","Experience with heat pump products","Einige Erfahrung","Moderate experience",3,4,36,34,1,1,15,0.441176470588235
+"BE08","Erfahrung mit Wärmepumpenprodukten","Experience with heat pump products","Viel Erfahrung","Much experience",4,5,36,34,1,1,5,0.147058823529412

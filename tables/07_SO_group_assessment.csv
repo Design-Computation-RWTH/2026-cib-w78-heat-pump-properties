@@ -1,0 +1,6 @@
+"block","block_name_de","block_name_en","Architecture","MEP","retained","reason"
+"SO02","Planungswerkzeuge","Planning tools",8,15,TRUE,"Retained for descriptive comparison"
+"SO03","Austauschplattformen","Exchange platforms",1,11,FALSE,"Not retained: at least one subgroup has fewer than 5 respondents"
+"SO04","Austauschformate","Exchange formats",8,15,TRUE,"Retained for descriptive comparison"
+"SO05","Produktdatenquellen","Product data sources",8,15,TRUE,"Retained for descriptive comparison"
+"SO06","Produktdatenformate","Product data formats",8,15,TRUE,"Retained for descriptive comparison"

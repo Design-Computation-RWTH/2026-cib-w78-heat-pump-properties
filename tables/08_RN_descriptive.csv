@@ -1,0 +1,5 @@
+"item","item_name_de","item_name_en","analysis_population_n","valid_n","coded_missing_n","structural_na_n","median","mean","sd","q1","q3","iqr"
+"RN03","VDI 3805 Erfahrung ","VDI 3805 Experience",36,35,1,0,2,2.6,1.4183669151113,1,4,3
+"RN04","VDI 3805 Wichtigkeit ","VDI 3805 Importance",36,33,3,0,3,3.33333333333333,1.51382517704875,2,4,2
+"RN07","ISO 16757 Erfahrung ","ISO 16757 Experience",36,20,0,16,1,1.4,0.820782681668123,1,1.25,0.25
+"RN08","ISO 16757 Wichtigkeit ","ISO 16757 Importance",36,11,9,16,2,2.27272727272727,1.4893561757289,1,3.5,2.5

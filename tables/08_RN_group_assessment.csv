@@ -1,0 +1,5 @@
+"item","item_name_de","item_name_en","Architecture","MEP","retained","low_count","reason"
+"RN03","VDI 3805 Erfahrung ","VDI 3805 Experience",9,24,TRUE,FALSE,"Retained for descriptive comparison"
+"RN04","VDI 3805 Wichtigkeit ","VDI 3805 Importance",8,23,TRUE,FALSE,"Retained for descriptive comparison"
+"RN07","ISO 16757 Erfahrung ","ISO 16757 Experience",1,18,FALSE,TRUE,"Table only: at least one subgroup has fewer than 3 valid responses"
+"RN08","ISO 16757 Wichtigkeit ","ISO 16757 Importance",1,10,FALSE,TRUE,"Table only: at least one subgroup has fewer than 3 valid responses"

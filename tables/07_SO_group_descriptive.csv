@@ -1,0 +1,139 @@
+"block","variable","item_name_de","item_name_en","group","n_valid","n_selected","pct"
+"SO02","SO02_01","Autodesk AutoCAD","Autodesk AutoCAD","Architecture",8,3,37.5
+"SO02","SO02_02","McNeel Rhinoceros 3D","McNeel Rhinoceros 3D","Architecture",8,1,12.5
+"SO02","SO02_03","Trimble SketchUp","Trimble SketchUp","Architecture",8,0,0
+"SO02","SO02_04","Autodesk Revit","Autodesk Revit","Architecture",8,6,75
+"SO02","SO02_05","Graphisoft ArchiCAD","Graphisoft ArchiCAD","Architecture",8,2,25
+"SO02","SO02_06","Nemetschek Allplan","Nemetschek Allplan","Architecture",8,1,12.5
+"SO02","SO02_07","Vectorworks","Vectorworks","Architecture",8,0,0
+"SO02","SO02_08","Trimble Nova (vorm. Plancal)","Trimble Nova (formerly Plancal)","Architecture",8,0,0
+"SO02","SO02_09","LINEAR + AutoCAD","LINEAR + AutoCAD","Architecture",8,0,0
+"SO02","SO02_10","LINEAR + Revit","LINEAR + Revit","Architecture",8,0,0
+"SO02","SO02_11","SOLAR-COMPUTER","SOLAR-COMPUTER","Architecture",8,0,0
+"SO02","SO02_12","SOLAR-COMPUTER, GBIS + AutoCAD","SOLAR-COMPUTER, GBIS + AutoCAD","Architecture",8,0,0
+"SO02","SO02_13","SOLAR-COMPUTER, GBIS + Revit","SOLAR-COMPUTER, GBIS + Revit","Architecture",8,0,0
+"SO02","SO02_14","MagiCAD + Revit","MagiCAD + Revit","Architecture",8,0,0
+"SO02","SO02_15","MagiCAD + AutoCAD","MagiCAD + AutoCAD","Architecture",8,0,0
+"SO02","SO02_16","MagiCAD + BricsCAD","MagiCAD + BricsCAD","Architecture",8,0,0
+"SO02","SO02_17","Graphisoft DDScad","Graphisoft DDScad","Architecture",8,0,0
+"SO02","SO02_18","Hottgenroth ETU","Hottgenroth ETU","Architecture",8,0,0
+"SO02","SO02_19","mh-BIM","mh-BIM","Architecture",8,0,0
+"SO02","SO02_01","Autodesk AutoCAD","Autodesk AutoCAD","MEP",15,6,40
+"SO02","SO02_02","McNeel Rhinoceros 3D","McNeel Rhinoceros 3D","MEP",15,0,0
+"SO02","SO02_03","Trimble SketchUp","Trimble SketchUp","MEP",15,0,0
+"SO02","SO02_04","Autodesk Revit","Autodesk Revit","MEP",15,6,40
+"SO02","SO02_05","Graphisoft ArchiCAD","Graphisoft ArchiCAD","MEP",15,0,0
+"SO02","SO02_06","Nemetschek Allplan","Nemetschek Allplan","MEP",15,0,0
+"SO02","SO02_07","Vectorworks","Vectorworks","MEP",15,0,0
+"SO02","SO02_08","Trimble Nova (vorm. Plancal)","Trimble Nova (formerly Plancal)","MEP",15,1,6.66666666666667
+"SO02","SO02_09","LINEAR + AutoCAD","LINEAR + AutoCAD","MEP",15,3,20
+"SO02","SO02_10","LINEAR + Revit","LINEAR + Revit","MEP",15,8,53.3333333333333
+"SO02","SO02_11","SOLAR-COMPUTER","SOLAR-COMPUTER","MEP",15,3,20
+"SO02","SO02_12","SOLAR-COMPUTER, GBIS + AutoCAD","SOLAR-COMPUTER, GBIS + AutoCAD","MEP",15,0,0
+"SO02","SO02_13","SOLAR-COMPUTER, GBIS + Revit","SOLAR-COMPUTER, GBIS + Revit","MEP",15,3,20
+"SO02","SO02_14","MagiCAD + Revit","MagiCAD + Revit","MEP",15,0,0
+"SO02","SO02_15","MagiCAD + AutoCAD","MagiCAD + AutoCAD","MEP",15,0,0
+"SO02","SO02_16","MagiCAD + BricsCAD","MagiCAD + BricsCAD","MEP",15,0,0
+"SO02","SO02_17","Graphisoft DDScad","Graphisoft DDScad","MEP",15,1,6.66666666666667
+"SO02","SO02_18","Hottgenroth ETU","Hottgenroth ETU","MEP",15,0,0
+"SO02","SO02_19","mh-BIM","mh-BIM","MEP",15,1,6.66666666666667
+"SO03","SO03_01","E-Mail (mit Anhängen)","Email (with attachments)","Architecture",1,1,100
+"SO03","SO03_02","Cloudspeicher (Dropbox, Nextcloud, WeTransfer etc.)","Cloud storage (Dropbox, Nextcloud, WeTransfer, etc.)","Architecture",1,0,0
+"SO03","SO03_03","Autodesk Construction Cloud (vorm. BIM 360)","Autodesk Construction Cloud (formerly BIM 360)","Architecture",1,0,0
+"SO03","SO03_04","Graphisoft BIMcloud","Graphisoft BIMcloud","Architecture",1,1,100
+"SO03","SO03_05","PlanRadar","PlanRadar","Architecture",1,0,0
+"SO03","SO03_06","Dalux","Dalux","Architecture",1,0,0
+"SO03","SO03_07","Revizto","Revizto","Architecture",1,0,0
+"SO03","SO03_08","Trimble Connect","Trimble Connect","Architecture",1,0,0
+"SO03","SO03_09","Capmo","Capmo","Architecture",1,0,0
+"SO03","SO03_10","Catenda","Catenda","Architecture",1,1,100
+"SO03","SO03_11","Thinkproject","Thinkproject","Architecture",1,1,100
+"SO03","SO03_12","BIMPLUS","BIMPLUS","Architecture",1,0,0
+"SO03","SO03_13","Visoplan","Visoplan","Architecture",1,0,0
+"SO03","SO03_14","smino","smino","Architecture",1,0,0
+"SO03","SO03_01","E-Mail (mit Anhängen)","Email (with attachments)","MEP",11,8,72.7272727272727
+"SO03","SO03_02","Cloudspeicher (Dropbox, Nextcloud, WeTransfer etc.)","Cloud storage (Dropbox, Nextcloud, WeTransfer, etc.)","MEP",11,7,63.6363636363636
+"SO03","SO03_03","Autodesk Construction Cloud (vorm. BIM 360)","Autodesk Construction Cloud (formerly BIM 360)","MEP",11,4,36.3636363636364
+"SO03","SO03_04","Graphisoft BIMcloud","Graphisoft BIMcloud","MEP",11,1,9.09090909090909
+"SO03","SO03_05","PlanRadar","PlanRadar","MEP",11,1,9.09090909090909
+"SO03","SO03_06","Dalux","Dalux","MEP",11,2,18.1818181818182
+"SO03","SO03_07","Revizto","Revizto","MEP",11,1,9.09090909090909
+"SO03","SO03_08","Trimble Connect","Trimble Connect","MEP",11,1,9.09090909090909
+"SO03","SO03_09","Capmo","Capmo","MEP",11,0,0
+"SO03","SO03_10","Catenda","Catenda","MEP",11,0,0
+"SO03","SO03_11","Thinkproject","Thinkproject","MEP",11,2,18.1818181818182
+"SO03","SO03_12","BIMPLUS","BIMPLUS","MEP",11,0,0
+"SO03","SO03_13","Visoplan","Visoplan","MEP",11,0,0
+"SO03","SO03_14","smino","smino","MEP",11,0,0
+"SO04","SO04_01","PDF","PDF","Architecture",8,8,100
+"SO04","SO04_02","Rastergrafik (PNG, TIFF, JPEG etc.)","Raster image (PNG, TIFF, JPEG, etc.)","Architecture",8,3,37.5
+"SO04","SO04_03","Word (DOCX) oder andere Textverarbeitung","Word (DOCX) or other word processor","Architecture",8,2,25
+"SO04","SO04_04","Excel (XLSX) oder andere Tabellenkalkulation","Excel (XLSX) or other spreadsheet software","Architecture",8,6,75
+"SO04","SO04_05","AutoCAD (DWG, DXF etc.)","AutoCAD (DWG, DXF, etc.)","Architecture",8,7,87.5
+"SO04","SO04_06","Proprietäre 3D-Formate (SKP, FBX, 3DM, etc.)","Proprietary 3D formats (SKP, FBX, 3DM, etc.)","Architecture",8,0,0
+"SO04","SO04_07","Offene 3D-Formate (COLLADA, OBJ etc.)","Open 3D formats (COLLADA, OBJ, etc.)","Architecture",8,0,0
+"SO04","SO04_08","Proprietäre BIM-Formate (RVT, PLN, VWX etc. )","Proprietary BIM formats (RVT, PLN, VWX, etc.)","Architecture",8,4,50
+"SO04","SO04_09","Industry Foundation Classes (IFC)","IFC","Architecture",8,8,100
+"SO04","SO04_10","BIM Collaboration Format (BCF)","BIM Collaboration Format (BCF)","Architecture",8,4,50
+"SO04","SO04_11","Green Building XML (gbXML)","Green Building XML (gbXML)","Architecture",8,0,0
+"SO04","SO04_01","PDF","PDF","MEP",15,15,100
+"SO04","SO04_02","Rastergrafik (PNG, TIFF, JPEG etc.)","Raster image (PNG, TIFF, JPEG, etc.)","MEP",15,2,13.3333333333333
+"SO04","SO04_03","Word (DOCX) oder andere Textverarbeitung","Word (DOCX) or other word processor","MEP",15,5,33.3333333333333
+"SO04","SO04_04","Excel (XLSX) oder andere Tabellenkalkulation","Excel (XLSX) or other spreadsheet software","MEP",15,6,40
+"SO04","SO04_05","AutoCAD (DWG, DXF etc.)","AutoCAD (DWG, DXF, etc.)","MEP",15,13,86.6666666666667
+"SO04","SO04_06","Proprietäre 3D-Formate (SKP, FBX, 3DM, etc.)","Proprietary 3D formats (SKP, FBX, 3DM, etc.)","MEP",15,1,6.66666666666667
+"SO04","SO04_07","Offene 3D-Formate (COLLADA, OBJ etc.)","Open 3D formats (COLLADA, OBJ, etc.)","MEP",15,0,0
+"SO04","SO04_08","Proprietäre BIM-Formate (RVT, PLN, VWX etc. )","Proprietary BIM formats (RVT, PLN, VWX, etc.)","MEP",15,6,40
+"SO04","SO04_09","Industry Foundation Classes (IFC)","IFC","MEP",15,12,80
+"SO04","SO04_10","BIM Collaboration Format (BCF)","BIM Collaboration Format (BCF)","MEP",15,7,46.6666666666667
+"SO04","SO04_11","Green Building XML (gbXML)","Green Building XML (gbXML)","MEP",15,1,6.66666666666667
+"SO05","SO05_01","Online-Portale der Hersteller","Manufacturer online portals","Architecture",8,5,62.5
+"SO05","SO05_02","Herstellerübergreifende Online-Portale (z.B. MEPcontent)","Cross-manufacturer portals (e.g. MEPcontent)","Architecture",8,0,0
+"SO05","SO05_03","Unternehmenseigene Sammlung herstellerspezifischer Produkte","In-house library (manufacturer-specific)","Architecture",8,0,0
+"SO05","SO05_04","Unternehmenseigene Sammlung herstellerneutraler Produkte","In-house library (manufacturer-neutral)","Architecture",8,1,12.5
+"SO05","SO05_05","Integrierte Produktkataloge in Planungssoftware (herstellerspezifisch)","Software catalogue (manufacturer-specific)","Architecture",8,0,0
+"SO05","SO05_06","Integrierte Produktkataloge in Planungssoftware (herstellerneutral)","Software catalogue (manufacturer-neutral)","Architecture",8,0,0
+"SO05","SO05_07","Von anderen Projektbeteiligten","Other project participants","Architecture",8,7,87.5
+"SO05","SO05_01","Online-Portale der Hersteller","Manufacturer online portals","MEP",15,13,86.6666666666667
+"SO05","SO05_02","Herstellerübergreifende Online-Portale (z.B. MEPcontent)","Cross-manufacturer portals (e.g. MEPcontent)","MEP",15,3,20
+"SO05","SO05_03","Unternehmenseigene Sammlung herstellerspezifischer Produkte","In-house library (manufacturer-specific)","MEP",15,7,46.6666666666667
+"SO05","SO05_04","Unternehmenseigene Sammlung herstellerneutraler Produkte","In-house library (manufacturer-neutral)","MEP",15,9,60
+"SO05","SO05_05","Integrierte Produktkataloge in Planungssoftware (herstellerspezifisch)","Software catalogue (manufacturer-specific)","MEP",15,8,53.3333333333333
+"SO05","SO05_06","Integrierte Produktkataloge in Planungssoftware (herstellerneutral)","Software catalogue (manufacturer-neutral)","MEP",15,7,46.6666666666667
+"SO05","SO05_07","Von anderen Projektbeteiligten","Other project participants","MEP",15,4,26.6666666666667
+"SO06","SO06_01","PDF (Produktkataloge, Datenblätter etc.)","PDF","Architecture",8,5,62.5
+"SO06","SO06_02","Word (.docx) oder andere Textverarbeitung","DOCX","Architecture",8,0,0
+"SO06","SO06_03","Excel (.xlsx) oder andere Tabellenkalkulation","XLSX","Architecture",8,0,0
+"SO06","SO06_04","AutoCAD (DWG, DXF)","DWG / DXF","Architecture",8,5,62.5
+"SO06","SO06_05","Revit-Familien (RFA)","RFA","Architecture",8,5,62.5
+"SO06","SO06_06","Industry Foundation Classes (IFC)","IFC","Architecture",8,6,75
+"SO06","SO06_07","VDI 3805 (VDI)","VDI 3805","Architecture",8,0,0
+"SO06","SO06_08","ETIM (BMEcat, xChange)","ETIM / BMEcat","Architecture",8,0,0
+"SO06","SO06_01","PDF (Produktkataloge, Datenblätter etc.)","PDF","MEP",15,12,80
+"SO06","SO06_02","Word (.docx) oder andere Textverarbeitung","DOCX","MEP",15,5,33.3333333333333
+"SO06","SO06_03","Excel (.xlsx) oder andere Tabellenkalkulation","XLSX","MEP",15,4,26.6666666666667
+"SO06","SO06_04","AutoCAD (DWG, DXF)","DWG / DXF","MEP",15,12,80
+"SO06","SO06_05","Revit-Familien (RFA)","RFA","MEP",15,5,33.3333333333333
+"SO06","SO06_06","Industry Foundation Classes (IFC)","IFC","MEP",15,11,73.3333333333333
+"SO06","SO06_07","VDI 3805 (VDI)","VDI 3805","MEP",15,5,33.3333333333333
+"SO06","SO06_08","ETIM (BMEcat, xChange)","ETIM / BMEcat","MEP",15,1,6.66666666666667
+"SO02","SO02_open_gstarcad","GstarCAD","GstarCAD","Architecture",8,0,0
+"SO02","SO02_open_gstarcad","GstarCAD","GstarCAD","MEP",15,1,6.66666666666667
+"SO02","SO02_open_bricscad","BricsCAD","BricsCAD","Architecture",8,0,0
+"SO02","SO02_open_bricscad","BricsCAD","BricsCAD","MEP",15,1,6.66666666666667
+"SO03","SO03_open_bimcollab","BIMcollab","BIMcollab","Architecture",1,1,100
+"SO03","SO03_open_bimcollab","BIMcollab","BIMcollab","MEP",11,1,9.09090909090909
+"SO03","SO03_open_newforma","Newforma Project Center","Newforma Project Center","Architecture",1,1,100
+"SO03","SO03_open_newforma","Newforma Project Center","Newforma Project Center","MEP",11,0,0
+"SO03","SO03_open_eplass","eplass","eplass","Architecture",1,0,0
+"SO03","SO03_open_eplass","eplass","eplass","MEP",11,1,9.09090909090909
+"SO03","SO03_open_teambeam","TeamBeam","TeamBeam","Architecture",1,0,0
+"SO03","SO03_open_teambeam","TeamBeam","TeamBeam","MEP",11,1,9.09090909090909
+"SO03","SO03_open_client_choice","Verschiedene Plattformen (vom Bauherrn vorgegeben)","Various platforms (specified by client)","Architecture",1,0,0
+"SO03","SO03_open_client_choice","Verschiedene Plattformen (vom Bauherrn vorgegeben)","Various platforms (specified by client)","MEP",11,1,9.09090909090909
+"SO03","SO03_open_planfred","PlanFred","PlanFred","Architecture",1,0,0
+"SO03","SO03_open_planfred","PlanFred","PlanFred","MEP",11,1,9.09090909090909
+"SO06","SO06_open_gaeb","Ausschreibungstexte im GAEB-Format","Tender texts in GAEB format","Architecture",8,0,0
+"SO06","SO06_open_gaeb","Ausschreibungstexte im GAEB-Format","Tender texts in GAEB format","MEP",15,1,6.66666666666667
+"SO06","SO06_open_step","STEP-Dateien","STEP files","Architecture",8,0,0
+"SO06","SO06_open_step","STEP-Dateien","STEP files","MEP",15,1,6.66666666666667

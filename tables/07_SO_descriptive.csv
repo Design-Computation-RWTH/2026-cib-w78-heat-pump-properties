@@ -1,0 +1,70 @@
+"block","variable","item_name_de","item_name_en","analysis_population_n","n_valid","structural_na_n","n_true","pct"
+"SO02","SO02_01","Autodesk AutoCAD","Autodesk AutoCAD",36,24,12,9,37.5
+"SO02","SO02_02","McNeel Rhinoceros 3D","McNeel Rhinoceros 3D",36,24,12,2,8.33333333333333
+"SO02","SO02_03","Trimble SketchUp","Trimble SketchUp",36,24,12,0,0
+"SO02","SO02_04","Autodesk Revit","Autodesk Revit",36,24,12,13,54.1666666666667
+"SO02","SO02_05","Graphisoft ArchiCAD","Graphisoft ArchiCAD",36,24,12,2,8.33333333333333
+"SO02","SO02_06","Nemetschek Allplan","Nemetschek Allplan",36,24,12,1,4.16666666666667
+"SO02","SO02_07","Vectorworks","Vectorworks",36,24,12,0,0
+"SO02","SO02_08","Trimble Nova (vorm. Plancal)","Trimble Nova (formerly Plancal)",36,24,12,1,4.16666666666667
+"SO02","SO02_09","LINEAR + AutoCAD","LINEAR + AutoCAD",36,24,12,3,12.5
+"SO02","SO02_10","LINEAR + Revit","LINEAR + Revit",36,24,12,8,33.3333333333333
+"SO02","SO02_11","SOLAR-COMPUTER","SOLAR-COMPUTER",36,24,12,3,12.5
+"SO02","SO02_12","SOLAR-COMPUTER, GBIS + AutoCAD","SOLAR-COMPUTER, GBIS + AutoCAD",36,24,12,0,0
+"SO02","SO02_13","SOLAR-COMPUTER, GBIS + Revit","SOLAR-COMPUTER, GBIS + Revit",36,24,12,3,12.5
+"SO02","SO02_14","MagiCAD + Revit","MagiCAD + Revit",36,24,12,0,0
+"SO02","SO02_15","MagiCAD + AutoCAD","MagiCAD + AutoCAD",36,24,12,0,0
+"SO02","SO02_16","MagiCAD + BricsCAD","MagiCAD + BricsCAD",36,24,12,0,0
+"SO02","SO02_17","Graphisoft DDScad","Graphisoft DDScad",36,24,12,1,4.16666666666667
+"SO02","SO02_18","Hottgenroth ETU","Hottgenroth ETU",36,24,12,0,0
+"SO02","SO02_19","mh-BIM","mh-BIM",36,24,12,1,4.16666666666667
+"SO02","SO02_open_gstarcad","GstarCAD","GstarCAD",36,24,12,1,4.16666666666667
+"SO02","SO02_open_bricscad","BricsCAD","BricsCAD",36,24,12,1,4.16666666666667
+"SO03","SO03_01","E-Mail (mit Anhängen)","Email (with attachments)",36,12,24,9,75
+"SO03","SO03_02","Cloudspeicher (Dropbox, Nextcloud, WeTransfer etc.)","Cloud storage (Dropbox, Nextcloud, WeTransfer, etc.)",36,12,24,7,58.3333333333333
+"SO03","SO03_03","Autodesk Construction Cloud (vorm. BIM 360)","Autodesk Construction Cloud (formerly BIM 360)",36,12,24,4,33.3333333333333
+"SO03","SO03_04","Graphisoft BIMcloud","Graphisoft BIMcloud",36,12,24,2,16.6666666666667
+"SO03","SO03_05","PlanRadar","PlanRadar",36,12,24,1,8.33333333333333
+"SO03","SO03_06","Dalux","Dalux",36,12,24,2,16.6666666666667
+"SO03","SO03_07","Revizto","Revizto",36,12,24,1,8.33333333333333
+"SO03","SO03_08","Trimble Connect","Trimble Connect",36,12,24,1,8.33333333333333
+"SO03","SO03_09","Capmo","Capmo",36,12,24,0,0
+"SO03","SO03_10","Catenda","Catenda",36,12,24,1,8.33333333333333
+"SO03","SO03_11","Thinkproject","Thinkproject",36,12,24,3,25
+"SO03","SO03_12","BIMPLUS","BIMPLUS",36,12,24,0,0
+"SO03","SO03_13","Visoplan","Visoplan",36,12,24,0,0
+"SO03","SO03_14","smino","smino",36,12,24,0,0
+"SO03","SO03_open_bimcollab","BIMcollab","BIMcollab",36,12,24,2,16.6666666666667
+"SO03","SO03_open_newforma","Newforma Project Center","Newforma Project Center",36,12,24,1,8.33333333333333
+"SO03","SO03_open_eplass","eplass","eplass",36,12,24,1,8.33333333333333
+"SO03","SO03_open_teambeam","TeamBeam","TeamBeam",36,12,24,1,8.33333333333333
+"SO03","SO03_open_client_choice","Verschiedene Plattformen (vom Bauherrn vorgegeben)","Various platforms (specified by client)",36,12,24,1,8.33333333333333
+"SO03","SO03_open_planfred","PlanFred","PlanFred",36,12,24,1,8.33333333333333
+"SO04","SO04_01","PDF","PDF",36,24,12,24,100
+"SO04","SO04_02","Rastergrafik (PNG, TIFF, JPEG etc.)","Raster image (PNG, TIFF, JPEG, etc.)",36,24,12,6,25
+"SO04","SO04_03","Word (DOCX) oder andere Textverarbeitung","Word (DOCX) or other word processor",36,24,12,8,33.3333333333333
+"SO04","SO04_04","Excel (XLSX) oder andere Tabellenkalkulation","Excel (XLSX) or other spreadsheet software",36,24,12,13,54.1666666666667
+"SO04","SO04_05","AutoCAD (DWG, DXF etc.)","AutoCAD (DWG, DXF, etc.)",36,24,12,20,83.3333333333333
+"SO04","SO04_06","Proprietäre 3D-Formate (SKP, FBX, 3DM, etc.)","Proprietary 3D formats (SKP, FBX, 3DM, etc.)",36,24,12,1,4.16666666666667
+"SO04","SO04_07","Offene 3D-Formate (COLLADA, OBJ etc.)","Open 3D formats (COLLADA, OBJ, etc.)",36,24,12,0,0
+"SO04","SO04_08","Proprietäre BIM-Formate (RVT, PLN, VWX etc. )","Proprietary BIM formats (RVT, PLN, VWX, etc.)",36,24,12,10,41.6666666666667
+"SO04","SO04_09","Industry Foundation Classes (IFC)","IFC",36,24,12,21,87.5
+"SO04","SO04_10","BIM Collaboration Format (BCF)","BIM Collaboration Format (BCF)",36,24,12,11,45.8333333333333
+"SO04","SO04_11","Green Building XML (gbXML)","Green Building XML (gbXML)",36,24,12,1,4.16666666666667
+"SO05","SO05_01","Online-Portale der Hersteller","Manufacturer online portals",36,24,12,18,75
+"SO05","SO05_02","Herstellerübergreifende Online-Portale (z.B. MEPcontent)","Cross-manufacturer portals (e.g. MEPcontent)",36,24,12,3,12.5
+"SO05","SO05_03","Unternehmenseigene Sammlung herstellerspezifischer Produkte","In-house library (manufacturer-specific)",36,24,12,7,29.1666666666667
+"SO05","SO05_04","Unternehmenseigene Sammlung herstellerneutraler Produkte","In-house library (manufacturer-neutral)",36,24,12,10,41.6666666666667
+"SO05","SO05_05","Integrierte Produktkataloge in Planungssoftware (herstellerspezifisch)","Software catalogue (manufacturer-specific)",36,24,12,8,33.3333333333333
+"SO05","SO05_06","Integrierte Produktkataloge in Planungssoftware (herstellerneutral)","Software catalogue (manufacturer-neutral)",36,24,12,7,29.1666666666667
+"SO05","SO05_07","Von anderen Projektbeteiligten","Other project participants",36,24,12,12,50
+"SO06","SO06_01","PDF (Produktkataloge, Datenblätter etc.)","PDF",36,24,12,17,70.8333333333333
+"SO06","SO06_02","Word (.docx) oder andere Textverarbeitung","DOCX",36,24,12,5,20.8333333333333
+"SO06","SO06_03","Excel (.xlsx) oder andere Tabellenkalkulation","XLSX",36,24,12,4,16.6666666666667
+"SO06","SO06_04","AutoCAD (DWG, DXF)","DWG / DXF",36,24,12,17,70.8333333333333
+"SO06","SO06_05","Revit-Familien (RFA)","RFA",36,24,12,10,41.6666666666667
+"SO06","SO06_06","Industry Foundation Classes (IFC)","IFC",36,24,12,18,75
+"SO06","SO06_07","VDI 3805 (VDI)","VDI 3805",36,24,12,5,20.8333333333333
+"SO06","SO06_08","ETIM (BMEcat, xChange)","ETIM / BMEcat",36,24,12,1,4.16666666666667
+"SO06","SO06_open_gaeb","Ausschreibungstexte im GAEB-Format","Tender texts in GAEB format",36,24,12,1,4.16666666666667
+"SO06","SO06_open_step","STEP-Dateien","STEP files",36,24,12,1,4.16666666666667

@@ -1,0 +1,191 @@
+"item_name_de","item_name_en","value","n","share","response","share_signed"
+"Verdichteranzahl","Number of compressors",1,2,0.133333333333333,"Very unimportant",-0.133333333333333
+"Verdichteranzahl","Number of compressors",2,2,0.133333333333333,"Unimportant",-0.133333333333333
+"Verdichteranzahl","Number of compressors",3,4,0.266666666666667,"Rather unimportant",-0.266666666666667
+"Verdichteranzahl","Number of compressors",4,6,0.4,"Rather important",0.4
+"Verdichteranzahl","Number of compressors",5,1,0.0666666666666667,"Important",0.0666666666666667
+"Bauart des Kältekreises","Design of refrigerant circuit",2,2,0.133333333333333,"Unimportant",-0.133333333333333
+"Bauart des Kältekreises","Design of refrigerant circuit",3,6,0.4,"Rather unimportant",-0.4
+"Bauart des Kältekreises","Design of refrigerant circuit",4,2,0.133333333333333,"Rather important",0.133333333333333
+"Bauart des Kältekreises","Design of refrigerant circuit",5,5,0.333333333333333,"Important",0.333333333333333
+"IP-Schutzart für das Innenteil","IP-protection for indoor unit",1,1,0.0625,"Very unimportant",-0.0625
+"IP-Schutzart für das Innenteil","IP-protection for indoor unit",2,1,0.0625,"Unimportant",-0.0625
+"IP-Schutzart für das Innenteil","IP-protection for indoor unit",3,5,0.3125,"Rather unimportant",-0.3125
+"IP-Schutzart für das Innenteil","IP-protection for indoor unit",4,5,0.3125,"Rather important",0.3125
+"IP-Schutzart für das Innenteil","IP-protection for indoor unit",5,3,0.1875,"Important",0.1875
+"IP-Schutzart für das Innenteil","IP-protection for indoor unit",6,1,0.0625,"Very important",0.0625
+"Maximale Vorlauftemperatur im Kühlbetrieb","Maximum supply temperature - cooling",2,3,0.2,"Unimportant",-0.2
+"Maximale Vorlauftemperatur im Kühlbetrieb","Maximum supply temperature - cooling",3,4,0.266666666666667,"Rather unimportant",-0.266666666666667
+"Maximale Vorlauftemperatur im Kühlbetrieb","Maximum supply temperature - cooling",4,3,0.2,"Rather important",0.2
+"Maximale Vorlauftemperatur im Kühlbetrieb","Maximum supply temperature - cooling",5,4,0.266666666666667,"Important",0.266666666666667
+"Maximale Vorlauftemperatur im Kühlbetrieb","Maximum supply temperature - cooling",6,1,0.0666666666666667,"Very important",0.0666666666666667
+"IP-Schutzart für das Außenteil","IP-protection for outdoor unit",2,2,0.133333333333333,"Unimportant",-0.133333333333333
+"IP-Schutzart für das Außenteil","IP-protection for outdoor unit",3,3,0.2,"Rather unimportant",-0.2
+"IP-Schutzart für das Außenteil","IP-protection for outdoor unit",4,6,0.4,"Rather important",0.4
+"IP-Schutzart für das Außenteil","IP-protection for outdoor unit",5,4,0.266666666666667,"Important",0.266666666666667
+"Integrierter Warmwasserspeicher","Integrated hot water tank",2,2,0.133333333333333,"Unimportant",-0.133333333333333
+"Integrierter Warmwasserspeicher","Integrated hot water tank",3,3,0.2,"Rather unimportant",-0.2
+"Integrierter Warmwasserspeicher","Integrated hot water tank",4,5,0.333333333333333,"Rather important",0.333333333333333
+"Integrierter Warmwasserspeicher","Integrated hot water tank",5,3,0.2,"Important",0.2
+"Integrierter Warmwasserspeicher","Integrated hot water tank",6,2,0.133333333333333,"Very important",0.133333333333333
+"Füllmenge des Kältemittels","Refrigerant capacity",2,2,0.133333333333333,"Unimportant",-0.133333333333333
+"Füllmenge des Kältemittels","Refrigerant capacity",4,8,0.533333333333333,"Rather important",0.533333333333333
+"Füllmenge des Kältemittels","Refrigerant capacity",5,4,0.266666666666667,"Important",0.266666666666667
+"Füllmenge des Kältemittels","Refrigerant capacity",6,1,0.0666666666666667,"Very important",0.0666666666666667
+"Minimale Vorlauftemperatur im Heizbetrieb","Minimum supply temperature - heating",2,1,0.0666666666666667,"Unimportant",-0.0666666666666667
+"Minimale Vorlauftemperatur im Heizbetrieb","Minimum supply temperature - heating",3,3,0.2,"Rather unimportant",-0.2
+"Minimale Vorlauftemperatur im Heizbetrieb","Minimum supply temperature - heating",4,4,0.266666666666667,"Rather important",0.266666666666667
+"Minimale Vorlauftemperatur im Heizbetrieb","Minimum supply temperature - heating",5,5,0.333333333333333,"Important",0.333333333333333
+"Minimale Vorlauftemperatur im Heizbetrieb","Minimum supply temperature - heating",6,2,0.133333333333333,"Very important",0.133333333333333
+"Minimale Vorlauftemperatur im Kühlbetrieb","Minimum supply temperature - cooling",2,1,0.0666666666666667,"Unimportant",-0.0666666666666667
+"Minimale Vorlauftemperatur im Kühlbetrieb","Minimum supply temperature - cooling",3,2,0.133333333333333,"Rather unimportant",-0.133333333333333
+"Minimale Vorlauftemperatur im Kühlbetrieb","Minimum supply temperature - cooling",4,5,0.333333333333333,"Rather important",0.333333333333333
+"Minimale Vorlauftemperatur im Kühlbetrieb","Minimum supply temperature - cooling",5,6,0.4,"Important",0.4
+"Minimale Vorlauftemperatur im Kühlbetrieb","Minimum supply temperature - cooling",6,1,0.0666666666666667,"Very important",0.0666666666666667
+"Heizleistung – dynamisch","Heating output - dynamic",2,1,0.0666666666666667,"Unimportant",-0.0666666666666667
+"Heizleistung – dynamisch","Heating output - dynamic",3,2,0.133333333333333,"Rather unimportant",-0.133333333333333
+"Heizleistung – dynamisch","Heating output - dynamic",4,5,0.333333333333333,"Rather important",0.333333333333333
+"Heizleistung – dynamisch","Heating output - dynamic",5,3,0.2,"Important",0.2
+"Heizleistung – dynamisch","Heating output - dynamic",6,4,0.266666666666667,"Very important",0.266666666666667
+"Leistungszahl Kühlung (EER) – dynamisch","Energy efficiency ratio (EER) - dynamic",2,1,0.0625,"Unimportant",-0.0625
+"Leistungszahl Kühlung (EER) – dynamisch","Energy efficiency ratio (EER) - dynamic",3,2,0.125,"Rather unimportant",-0.125
+"Leistungszahl Kühlung (EER) – dynamisch","Energy efficiency ratio (EER) - dynamic",4,5,0.3125,"Rather important",0.3125
+"Leistungszahl Kühlung (EER) – dynamisch","Energy efficiency ratio (EER) - dynamic",5,7,0.4375,"Important",0.4375
+"Leistungszahl Kühlung (EER) – dynamisch","Energy efficiency ratio (EER) - dynamic",6,1,0.0625,"Very important",0.0625
+"Leistungszahl (COP) – dynamisch","Coefficient of performance (COP) - dynamic",2,1,0.0625,"Unimportant",-0.0625
+"Leistungszahl (COP) – dynamisch","Coefficient of performance (COP) - dynamic",3,1,0.0625,"Rather unimportant",-0.0625
+"Leistungszahl (COP) – dynamisch","Coefficient of performance (COP) - dynamic",4,6,0.375,"Rather important",0.375
+"Leistungszahl (COP) – dynamisch","Coefficient of performance (COP) - dynamic",5,4,0.25,"Important",0.25
+"Leistungszahl (COP) – dynamisch","Coefficient of performance (COP) - dynamic",6,4,0.25,"Very important",0.25
+"Anlaufstrom","Starting current",1,1,0.0625,"Very unimportant",-0.0625
+"Anlaufstrom","Starting current",2,1,0.0625,"Unimportant",-0.0625
+"Anlaufstrom","Starting current",3,2,0.125,"Rather unimportant",-0.125
+"Anlaufstrom","Starting current",4,3,0.1875,"Rather important",0.1875
+"Anlaufstrom","Starting current",5,8,0.5,"Important",0.5
+"Anlaufstrom","Starting current",6,1,0.0625,"Very important",0.0625
+"Elektrische Leistungsaufnahme – dynamisch","Electric power consumption - dynamic",2,1,0.0588235294117647,"Unimportant",-0.0588235294117647
+"Elektrische Leistungsaufnahme – dynamisch","Electric power consumption - dynamic",3,4,0.235294117647059,"Rather unimportant",-0.235294117647059
+"Elektrische Leistungsaufnahme – dynamisch","Electric power consumption - dynamic",4,3,0.176470588235294,"Rather important",0.176470588235294
+"Elektrische Leistungsaufnahme – dynamisch","Electric power consumption - dynamic",5,6,0.352941176470588,"Important",0.352941176470588
+"Elektrische Leistungsaufnahme – dynamisch","Electric power consumption - dynamic",6,3,0.176470588235294,"Very important",0.176470588235294
+"Elektrische Anschlussspanung und Phase","Electrical connection (voltage and phase)",2,2,0.125,"Unimportant",-0.125
+"Elektrische Anschlussspanung und Phase","Electrical connection (voltage and phase)",3,2,0.125,"Rather unimportant",-0.125
+"Elektrische Anschlussspanung und Phase","Electrical connection (voltage and phase)",4,3,0.1875,"Rather important",0.1875
+"Elektrische Anschlussspanung und Phase","Electrical connection (voltage and phase)",5,5,0.3125,"Important",0.3125
+"Elektrische Anschlussspanung und Phase","Electrical connection (voltage and phase)",6,4,0.25,"Very important",0.25
+"Leistung der elektr. Zusatzheizung (Heizstab)","Output of electric backup heating",2,1,0.0625,"Unimportant",-0.0625
+"Leistung der elektr. Zusatzheizung (Heizstab)","Output of electric backup heating",3,4,0.25,"Rather unimportant",-0.25
+"Leistung der elektr. Zusatzheizung (Heizstab)","Output of electric backup heating",4,2,0.125,"Rather important",0.125
+"Leistung der elektr. Zusatzheizung (Heizstab)","Output of electric backup heating",5,5,0.3125,"Important",0.3125
+"Leistung der elektr. Zusatzheizung (Heizstab)","Output of electric backup heating",6,4,0.25,"Very important",0.25
+"Masse (Gesamtgewicht)","Mass (total weight)",2,1,0.0625,"Unimportant",-0.0625
+"Masse (Gesamtgewicht)","Mass (total weight)",3,1,0.0625,"Rather unimportant",-0.0625
+"Masse (Gesamtgewicht)","Mass (total weight)",4,5,0.3125,"Rather important",0.3125
+"Masse (Gesamtgewicht)","Mass (total weight)",5,8,0.5,"Important",0.5
+"Masse (Gesamtgewicht)","Mass (total weight)",6,1,0.0625,"Very important",0.0625
+"Kühlleistung – dynamisch","Cooling output - dynamic",2,1,0.0666666666666667,"Unimportant",-0.0666666666666667
+"Kühlleistung – dynamisch","Cooling output - dynamic",3,1,0.0666666666666667,"Rather unimportant",-0.0666666666666667
+"Kühlleistung – dynamisch","Cooling output - dynamic",4,5,0.333333333333333,"Rather important",0.333333333333333
+"Kühlleistung – dynamisch","Cooling output - dynamic",5,6,0.4,"Important",0.4
+"Kühlleistung – dynamisch","Cooling output - dynamic",6,2,0.133333333333333,"Very important",0.133333333333333
+"Energieeffizienzlabel (ErP-Daten)","Energy efficiency label (ErP data)",3,3,0.1875,"Rather unimportant",-0.1875
+"Energieeffizienzlabel (ErP-Daten)","Energy efficiency label (ErP data)",4,3,0.1875,"Rather important",0.1875
+"Energieeffizienzlabel (ErP-Daten)","Energy efficiency label (ErP data)",5,7,0.4375,"Important",0.4375
+"Energieeffizienzlabel (ErP-Daten)","Energy efficiency label (ErP data)",6,3,0.1875,"Very important",0.1875
+"Automatisierungs- und Steuerungssysteme","Automation- and control systems",3,1,0.0625,"Rather unimportant",-0.0625
+"Automatisierungs- und Steuerungssysteme","Automation- and control systems",4,6,0.375,"Rather important",0.375
+"Automatisierungs- und Steuerungssysteme","Automation- and control systems",5,7,0.4375,"Important",0.4375
+"Automatisierungs- und Steuerungssysteme","Automation- and control systems",6,2,0.125,"Very important",0.125
+"Leistungsregelung","Output control",2,1,0.0666666666666667,"Unimportant",-0.0666666666666667
+"Leistungsregelung","Output control",3,1,0.0666666666666667,"Rather unimportant",-0.0666666666666667
+"Leistungsregelung","Output control",4,3,0.2,"Rather important",0.2
+"Leistungsregelung","Output control",5,7,0.466666666666667,"Important",0.466666666666667
+"Leistungsregelung","Output control",6,3,0.2,"Very important",0.2
+"Nenn-Kühlleistung","Nominal cooling output",3,2,0.133333333333333,"Rather unimportant",-0.133333333333333
+"Nenn-Kühlleistung","Nominal cooling output",4,4,0.266666666666667,"Rather important",0.266666666666667
+"Nenn-Kühlleistung","Nominal cooling output",5,6,0.4,"Important",0.4
+"Nenn-Kühlleistung","Nominal cooling output",6,3,0.2,"Very important",0.2
+"Nenn-Leistungszahl Kühlung (EER)","Nominal energy efficiency ratio (EER)",2,1,0.0666666666666667,"Unimportant",-0.0666666666666667
+"Nenn-Leistungszahl Kühlung (EER)","Nominal energy efficiency ratio (EER)",4,6,0.4,"Rather important",0.4
+"Nenn-Leistungszahl Kühlung (EER)","Nominal energy efficiency ratio (EER)",5,4,0.266666666666667,"Important",0.266666666666667
+"Nenn-Leistungszahl Kühlung (EER)","Nominal energy efficiency ratio (EER)",6,4,0.266666666666667,"Very important",0.266666666666667
+"Maximale Wärmequellentemperatur","Maximum heat source temperature",3,2,0.133333333333333,"Rather unimportant",-0.133333333333333
+"Maximale Wärmequellentemperatur","Maximum heat source temperature",4,5,0.333333333333333,"Rather important",0.333333333333333
+"Maximale Wärmequellentemperatur","Maximum heat source temperature",5,4,0.266666666666667,"Important",0.266666666666667
+"Maximale Wärmequellentemperatur","Maximum heat source temperature",6,4,0.266666666666667,"Very important",0.266666666666667
+"Spreizung der Heizwassertemperatur","Temperature differential",2,1,0.0666666666666667,"Unimportant",-0.0666666666666667
+"Spreizung der Heizwassertemperatur","Temperature differential",3,1,0.0666666666666667,"Rather unimportant",-0.0666666666666667
+"Spreizung der Heizwassertemperatur","Temperature differential",4,2,0.133333333333333,"Rather important",0.133333333333333
+"Spreizung der Heizwassertemperatur","Temperature differential",5,8,0.533333333333333,"Important",0.533333333333333
+"Spreizung der Heizwassertemperatur","Temperature differential",6,3,0.2,"Very important",0.2
+"Nenn-Leistungszahl (COP)","Nominal coefficient of performance (COP)",2,1,0.0666666666666667,"Unimportant",-0.0666666666666667
+"Nenn-Leistungszahl (COP)","Nominal coefficient of performance (COP)",4,3,0.2,"Rather important",0.2
+"Nenn-Leistungszahl (COP)","Nominal coefficient of performance (COP)",5,8,0.533333333333333,"Important",0.533333333333333
+"Nenn-Leistungszahl (COP)","Nominal coefficient of performance (COP)",6,3,0.2,"Very important",0.2
+"Minimale Wärmequellentemperatur","Minimum heat source temperature",3,2,0.133333333333333,"Rather unimportant",-0.133333333333333
+"Minimale Wärmequellentemperatur","Minimum heat source temperature",4,3,0.2,"Rather important",0.2
+"Minimale Wärmequellentemperatur","Minimum heat source temperature",5,6,0.4,"Important",0.4
+"Minimale Wärmequellentemperatur","Minimum heat source temperature",6,4,0.266666666666667,"Very important",0.266666666666667
+"Treibhauspotential (GWP) des Kältemittels","Refrigerant global warming potential (GWP)",3,1,0.0666666666666667,"Rather unimportant",-0.0666666666666667
+"Treibhauspotential (GWP) des Kältemittels","Refrigerant global warming potential (GWP)",4,4,0.266666666666667,"Rather important",0.266666666666667
+"Treibhauspotential (GWP) des Kältemittels","Refrigerant global warming potential (GWP)",5,7,0.466666666666667,"Important",0.466666666666667
+"Treibhauspotential (GWP) des Kältemittels","Refrigerant global warming potential (GWP)",6,3,0.2,"Very important",0.2
+"Zusatzwärme/Energieträger","Backup heat / energy source",4,4,0.25,"Rather important",0.25
+"Zusatzwärme/Energieträger","Backup heat / energy source",5,11,0.6875,"Important",0.6875
+"Zusatzwärme/Energieträger","Backup heat / energy source",6,1,0.0625,"Very important",0.0625
+"Schallpegel im Innenraum","Sound power level for indoors",3,3,0.176470588235294,"Rather unimportant",-0.176470588235294
+"Schallpegel im Innenraum","Sound power level for indoors",4,3,0.176470588235294,"Rather important",0.176470588235294
+"Schallpegel im Innenraum","Sound power level for indoors",5,5,0.294117647058824,"Important",0.294117647058824
+"Schallpegel im Innenraum","Sound power level for indoors",6,6,0.352941176470588,"Very important",0.352941176470588
+"Maximale Vorlauftemperatur im Heizbetrieb","Maximum supply temperature - heating",2,1,0.0666666666666667,"Unimportant",-0.0666666666666667
+"Maximale Vorlauftemperatur im Heizbetrieb","Maximum supply temperature - heating",3,1,0.0666666666666667,"Rather unimportant",-0.0666666666666667
+"Maximale Vorlauftemperatur im Heizbetrieb","Maximum supply temperature - heating",4,2,0.133333333333333,"Rather important",0.133333333333333
+"Maximale Vorlauftemperatur im Heizbetrieb","Maximum supply temperature - heating",5,6,0.4,"Important",0.4
+"Maximale Vorlauftemperatur im Heizbetrieb","Maximum supply temperature - heating",6,5,0.333333333333333,"Very important",0.333333333333333
+"Elektrische Leistungsaufnahme","Electric power consumption",2,1,0.0625,"Unimportant",-0.0625
+"Elektrische Leistungsaufnahme","Electric power consumption",3,2,0.125,"Rather unimportant",-0.125
+"Elektrische Leistungsaufnahme","Electric power consumption",5,8,0.5,"Important",0.5
+"Elektrische Leistungsaufnahme","Electric power consumption",6,5,0.3125,"Very important",0.3125
+"Betriebsweise","Operating mode",3,1,0.0666666666666667,"Rather unimportant",-0.0666666666666667
+"Betriebsweise","Operating mode",4,4,0.266666666666667,"Rather important",0.266666666666667
+"Betriebsweise","Operating mode",5,4,0.266666666666667,"Important",0.266666666666667
+"Betriebsweise","Operating mode",6,6,0.4,"Very important",0.4
+"Antriebsenergie/Funktionsprinzip","Drive energy / functional principle",3,1,0.0625,"Rather unimportant",-0.0625
+"Antriebsenergie/Funktionsprinzip","Drive energy / functional principle",4,3,0.1875,"Rather important",0.1875
+"Antriebsenergie/Funktionsprinzip","Drive energy / functional principle",5,7,0.4375,"Important",0.4375
+"Antriebsenergie/Funktionsprinzip","Drive energy / functional principle",6,5,0.3125,"Very important",0.3125
+"Funktionsumfang","Range of functions",2,1,0.0588235294117647,"Unimportant",-0.0588235294117647
+"Funktionsumfang","Range of functions",5,10,0.588235294117647,"Important",0.588235294117647
+"Funktionsumfang","Range of functions",6,6,0.352941176470588,"Very important",0.352941176470588
+"Bauart","System design",2,1,0.0588235294117647,"Unimportant",-0.0588235294117647
+"Bauart","System design",4,1,0.0588235294117647,"Rather important",0.0588235294117647
+"Bauart","System design",5,7,0.411764705882353,"Important",0.411764705882353
+"Bauart","System design",6,8,0.470588235294118,"Very important",0.470588235294118
+"Produktmaße (Länge x Breite x Höhe)","Product dimensions (length x width x height)",4,3,0.1875,"Rather important",0.1875
+"Produktmaße (Länge x Breite x Höhe)","Product dimensions (length x width x height)",5,6,0.375,"Important",0.375
+"Produktmaße (Länge x Breite x Höhe)","Product dimensions (length x width x height)",6,7,0.4375,"Very important",0.4375
+"Informationen zu Betriebskosten","Information about operating costs",4,2,0.125,"Rather important",0.125
+"Informationen zu Betriebskosten","Information about operating costs",5,8,0.5,"Important",0.5
+"Informationen zu Betriebskosten","Information about operating costs",6,6,0.375,"Very important",0.375
+"Informationen zu Investitionskosten","Information about investment costs",4,2,0.117647058823529,"Rather important",0.117647058823529
+"Informationen zu Investitionskosten","Information about investment costs",5,8,0.470588235294118,"Important",0.470588235294118
+"Informationen zu Investitionskosten","Information about investment costs",6,7,0.411764705882353,"Very important",0.411764705882353
+"Eingesetztes Kältemittel","Refrigerant used",4,1,0.0666666666666667,"Rather important",0.0666666666666667
+"Eingesetztes Kältemittel","Refrigerant used",5,8,0.533333333333333,"Important",0.533333333333333
+"Eingesetztes Kältemittel","Refrigerant used",6,6,0.4,"Very important",0.4
+"Schallpegel im Außenraum","Sound power level for outdoors",4,1,0.0588235294117647,"Rather important",0.0588235294117647
+"Schallpegel im Außenraum","Sound power level for outdoors",5,9,0.529411764705882,"Important",0.529411764705882
+"Schallpegel im Außenraum","Sound power level for outdoors",6,7,0.411764705882353,"Very important",0.411764705882353
+"Nenn-Heizleistung","Nominal heating output",3,1,0.0666666666666667,"Rather unimportant",-0.0666666666666667
+"Nenn-Heizleistung","Nominal heating output",4,3,0.2,"Rather important",0.2
+"Nenn-Heizleistung","Nominal heating output",5,2,0.133333333333333,"Important",0.133333333333333
+"Nenn-Heizleistung","Nominal heating output",6,9,0.6,"Very important",0.6
+"Sicherheitsklasse des Kältemittels","Refrigerant safety class",4,2,0.133333333333333,"Rather important",0.133333333333333
+"Sicherheitsklasse des Kältemittels","Refrigerant safety class",5,5,0.333333333333333,"Important",0.333333333333333
+"Sicherheitsklasse des Kältemittels","Refrigerant safety class",6,8,0.533333333333333,"Very important",0.533333333333333
+"Aufstellungsort","Installation location",5,6,0.352941176470588,"Important",0.352941176470588
+"Aufstellungsort","Installation location",6,11,0.647058823529412,"Very important",0.647058823529412
+"Typ","Type",5,4,0.222222222222222,"Important",0.222222222222222
+"Typ","Type",6,14,0.777777777777778,"Very important",0.777777777777778
+"Wärmequelle","Heat source",5,3,0.1875,"Important",0.1875
+"Wärmequelle","Heat source",6,13,0.8125,"Very important",0.8125
