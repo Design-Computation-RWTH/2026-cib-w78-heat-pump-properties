@@ -83,9 +83,9 @@ analysis <- d[!is.na(d$BE02) & d$BE02 > 0, ]   # n = 36
 | `data/survey_responses.csv` | Survey responses (UTF-8, `.` as decimal separator) |
 | `data/codebook.xlsx` | SoSci Survey codebook: variable labels, response codes and response labels |
 | `figures/` | Evaluation figures, including ones not used in the paper |
-| `tables/` | English descriptive, distribution, group-comparison, and analysis tables |
+| `analysis/tables/` | English descriptive, distribution, group-comparison, and analysis tables |
 
-The `tables/` directory contains the generated English-profile CSV outputs,
+The `analysis/tables/` directory contains the generated English-profile CSV outputs,
 including `00_output_manifest.csv`, item-level descriptive statistics,
 distribution tables, group-comparison tables, the ME02/ME04 joint-analysis
 tables, and the SO free-text recoding audit.
