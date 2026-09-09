@@ -46,8 +46,8 @@ The online survey was conducted with
 
 ### Sample size
 
-**Evaluated surveyys n = 40.**
-**Analysis set n = 34.**
+**Evaluated survey n = 42.**
+**Analysis set n = 36.**
 
 Nearly all questions were optional. Respondents were allowed to skip specific question blocks
 if they lacked sufficient professional experience. There is therefore no single n for the whole survey
@@ -57,20 +57,20 @@ and any analysis should report the n of the block it uses.
 
 | Stage | n | |
 |---|---|---|
-| Records retained in raw data export | 45 | submitted at least one page |
-| …with at least one question actually answered | **40** | **published in this repository** |
-| …with the professional role (`BE02`) answered and self reported as 'answered seriously' | **34** | **analysis set for conference paper** |
+| Records retained in raw data export | 48 | submitted at least one page |
+| …with at least one question actually answered | **42** | **published in this repository** |
+| …with the professional role (`BE02`) answered | **36** | **analysis set for conference paper** |
 
-Five of the 45 raw date records contain no answers at all.
+Six of the 48 raw data records contain no answers at all.
 They carry only process metadata and are not included in the published file.
 
-The published dataset deliberately contains all 40 evaluated records rather than only the
-34, so that the inclusion decision can be verified and alternative criteria can
-be applied. The analysis set is reproducible directly from the published data:
+The published dataset deliberately contains all 42 evaluated records rather than only the
+36-person analysis population, so that the inclusion decision can be verified and alternative criteria can be
+applied. The analysis set is reproducible directly from the published data:
 
 ```r
 d <- read.csv("data/survey_responses.csv")
-analysis <- d[!is.na(d$BE02) & d$BE02 > 0, ]   # n = 34
+analysis <- d[!is.na(d$BE02) & d$BE02 > 0, ]   # n = 36
 ```
 
 
@@ -279,8 +279,8 @@ have **no column** in `survey_responses.csv`:
 | `SD03` Alter (Kategorien) | as above |
 | `SERIAL`, `REF`, `MAILSENT` | Administrative metadata fields, empty in every record |
 
-Five records in which every question was left unanswered (all values `-9`,
-`MISSING = 100`) were removed, leaving n = 40 in the published file. See
+Six records in which every question was left unanswered (all values `-9`,
+`MISSING = 100`) were removed, leaving n = 42 in the published file. See
 [Sample size](#sample-size) for the full participation funnel.
 
 `CASE` numbers are the original SoSci Survey interview numbers and are therefore
