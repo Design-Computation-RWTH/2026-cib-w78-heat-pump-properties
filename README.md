@@ -24,9 +24,11 @@ pumps — is available at:
 <https://github.com/Design-Computation-RWTH/ecppm-2026-productSelection>
 
 > **Note on language.** The dataset and codebook are in **German**, as the
-> survey was conducted in German and no translation layer is published. This
-> README describes every question block in English so the data can be
-> interpreted without reading German.
+> survey was conducted in German and no translation layer is published for the original survey data.
+> All statistical analysis artifacts (figure and tables) in this repository appendix are however in English,
+> matching the translated survey items as > presented in the conference paper.
+> Additionally, this README briefly describes every question block in English so the original surveyx data can be
+> re-interpreted without reading German.
 
 ## Project context
 
