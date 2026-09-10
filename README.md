@@ -8,10 +8,8 @@ This repository is an **appendix** to the associated research paper (see
 `CITATION.cff`). It provides:
 
 - the **survey response data** and its **codebook**,
-- **additional evaluation figures** that did not fit into the paper due to
-  space constraints,
-- **descriptive and exploratory analysis tables** corresponding to the English
-  figures.
+- **evaluation figures** for each question block, most of which did not fit into the conference paper,
+- **descriptive and exploratory analysis tables** for each question block.
 
 ### Companion repository
 
